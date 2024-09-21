@@ -1,0 +1,85 @@
+[0.047296286010742185, 0.04712308183833956, 0.046990778263842264, 0.04689613131055206, 0.0468217111802985, 0.04675884023022729, 0.04671317730031496, 0.046707475008164044, 0.04669607181602338, 0.04670747222418159, 0.04671317381991208, 0.04673028069509027, 0.046764506974896244, 0.04681588399671925, 0.04685017297425591, 0.046907363126812374, 0.04696462309156678, 0.047027685939956335, 0.04710231483610128, 0.04717706216189099, 0.04725768702398407, 0.04733268091208366, 0.04743668338479087]
+[699.7372990481243, 697.5490288417598, 696.2453685781322, 695.631529017608, 695.5005804956501, 695.5347667888376, 696.0297246186922, 697.2724295521691, 698.3793504325316, 700.0631882171784, 701.5764897481383, 703.364564922158, 705.4418675363225, 707.9714515259766, 710.1739640948667, 712.8451206838906, 715.4785745745002, 718.2684780381463, 721.4198846647577, 724.5203824254896, 727.7729943144107, 730.8844218706024, 734.6883828503062]
+[91.01868302819351, 91.82072408493067, 92.67646037428493, 93.58017167141095, 94.5141717588943, 95.45893677053482, 96.435613321049, 97.48067248938513, 98.51393593438245, 99.59824697486627, 100.67005098084636, 101.76944468260238, 102.90464939794501, 104.08756822183365, 105.23955392821941, 106.44854869872577, 107.66206127522318, 108.89848088269967, 110.17839591919484, 111.46396043261696, 112.77526157017189, 114.07946515760635, 115.47623773363797]
+
+
+Lightest for 10 Bar --> Ae/At = 70:
+
+Using 37%HAN-63%H2O2 Oxidizer + JANUS's Compound 15 Hypergolic Hybrid Fuel
+
+Oxidizer to Fuel Ratio = 4.2:1
+Chamber pressure = 1.00 MPa
+Chamber temperature = 2933.5 K
+Throat diameter = 46.8217111802985 mm
+Throat Area = 1721.8069 mm^2
+Nozzle expansion ratio = 70
+Nozzle exit diameter = 0.3917 m
+Nozzle exit area = 0.1205 m^2
+
+Using NASA-CEA Result (accounting for the change in properties)
+    CEA Exhaust mach number = 4.4730
+    CEA Effective exhaust velocity = 3085.9227 m/s
+    CEA C* Efficiency = 1622.0000 m/s
+    CEA Exhaust temperature = 1132.0000 K
+    CEA Exhaust pressure = 1115.0000 Pa
+    CEA Specific Impulse (Isp) = 327.6129 s
+    CEA Density Impulse = 515400.6608 kg-s/m^3
+
+All performance after this is calculated with NASA-CEA Results
+
+Propellant Mass Flow Rate = 1.0615 Kg/s
+Fuel Mass Flow Rate = 0.2041 Kg/s
+Oxidizer Mass Flow Rate = 0.8574 Kg/s
+Oxidizer Volumetric Flow Rate = 0.5359 L/s
+
+Thrust = 3410.1965 N
+Thrust to Weight Ratio = 0.5000
+
+Delta V total = 3931.8569 m/s
+Total propellant mass used = 500.9864 kg
+    Fuel mass used= 96.3435 kg
+    Fuel volume = 63.3006 L
+    Oxidizer mass used= 404.6429 kg
+    Oxidizer volume = 257.2101 L
+    Propellant mass used at parking = 381.5561 kg
+    Propellant mass used at injection = 119.4303 kg
+Dry mass = 194.5142 kg
+Total LEO wet mass = 695.5006 kg
+Total burn time = 471.95 s
+    Parking burn time = 359.44 s
+    Injection burn time = 112.51 s
+Orbital arc degrees over parking burn = 24.37 deg
+
+Approximated Ideal Hybrid Fuel Performance and Sizing
+Fuel Grain Geometry
+    Initial Port Diameter = 46.7261 mm
+    Final Port Diameter = 432.9381 mm
+    Fuel Grain Length = 435.0659 mm
+    Fuel grain volume = 63.3006 L
+Hybrid fuel burn time = 471.9460 s
+Hybrid fuel mass flow rate = 0.2041 kg/s
+Oxidizer mass flux initial= 500.0000 kg/s-m^3
+L* chamber volume = 17.2181 L
+Grain chamber volume = 1.7148 L
+Pre combustion chamber length = 15.0000 mm
+Post combustion chamber length = 105.3131 mm
+Total combustion chamber length = 555.3790 mm
+Nozzle Length (LN) = 514.90 mm
+Total engine length = 1181.7400 mm
+Total kick stage length = 1481.7400 mm
+
+Mass Calculation
+Combustion chamber mass = 6.9411 kg
+Injector mass = 2.3137 kg
+Nozzle mass = 14.4113 kg
+Battery mass = 0.7562 kg
+Pump mass = 12.0000 kg
+Motor mass = 0.5000 kg
+Tank mass = 8.9894 kg
+Tank Insulation mass = 13.5079 kg
+Casing mass = 25.0945 kg
+Other mass = 10.0000 kg
+Payload mass = 100.0000 kg
+Kick stage dry mass = 94.5142 kg
+Total kick stage wet mass = 695.5006 kg
+New thrust to weight ratio = 0.5000
